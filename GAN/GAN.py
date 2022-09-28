@@ -5,6 +5,8 @@ from skimage.io import imsave
 import os
 import shutil
 
+#already view
+
 img_width = 28
 img_height = 28
 img_size = img_height * img_width
